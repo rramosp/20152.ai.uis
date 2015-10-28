@@ -1,6 +1,8 @@
 # Inteligencia Artificial I
 ## 2015 - Semestre II - Universidad Industrial de Santander
 
+_Regístrate [aquí](http://goo.gl/forms/Vrup6NIyLT)_
+
 ### Calificación
 40% Problemsets<br/>
 20% Quizes<br/>
