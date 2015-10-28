@@ -7,12 +7,13 @@
 20% Parciales<br/>
 20% Online courses (MOOC)
 
-### Fechas
-30/Dic - Problem sets 1 y 2<br/>
-30/Dic - Propuesta de 4 lecciones de MOOC
-
 ### Online Courses (MOOC)
-[Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org)
+Realiza cuatro lecciones de un curso que elijas en alguna plataforma MOOC, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
-*Entrega 1*: Un PDF con el URL del MOOC y los nombres de las cuatro lecciones a realizar<br/>
-*Entrega 2*: Un PDF con la evidencia de la realización de las lecciones (pantallazos, código, documentos, etc.)
+### Fechas
+21/Dic - Problemsets 1 y 2<br/>
+14/Ene - MOOC: Un PDF con el URL del MOOC elegidos y los nombres de las cuatro lecciones a realizar<br/>
+14/Mar - Problemsets 3, 4 y 5<br/>
+22/Mar - MOOC: Un PDF con la evidencia de la realización de las lecciones (pantallazos, código, documentos, etc.)
+
+
